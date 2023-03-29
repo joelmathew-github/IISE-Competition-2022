@@ -1,0 +1,2 @@
+# IISE-Competition-2022
+Developed an optimization model using AMPL to minimize transportation cost for a logistics company wanting to incorporate coastal shipping method to its existing road shipment method. Using parameters/constraints like number of ships, voyages, freight capacity, demand, etc. the model achieved a saving of $20 million on transportation cost using coastal means against using only roadways
